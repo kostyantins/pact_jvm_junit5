@@ -1,6 +1,0 @@
-api/clients/PlanetsClient.class
-util/PropertiesReader.class
-api/clients/StarshipClient.class
-util/base_tests/BasedSwapiTest.class
-util/listeners/SwapiAllureRestAssured.class
-api/clients/BasedAPIClient.class
