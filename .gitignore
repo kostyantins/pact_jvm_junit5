@@ -221,3 +221,5 @@ $RECYCLE.BIN/
 
 # custom
 pact_jvm_junit5.iml
+.idea
+target
